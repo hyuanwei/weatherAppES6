@@ -1,6 +1,8 @@
 # ES6 weather app
 
-ES6 practice
+ES6 practice 
+
+API from OpenWeatherMap
 
 # Webpack Frontend Starterkit
 
